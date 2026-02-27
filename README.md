@@ -9,7 +9,7 @@ El sistema automatiza la creación de perfiles de usuario para campañas publici
 * **Personalización:** Ajuste fluido de atributos específicos por usuario o región.
 * **Integridad de Datos:** Clonación profunda para evitar conflictos en las listas de intereses.
 
-##Patrones Aplicados
+## 🧩 Patrones Aplicados
 
 * **Builder:** Permite una inicialización fluida de los atributos (presupuesto, ciudad e intereses) sin depender de constructores sobrecargados.
 * **Prototype:** Permite la clonación de objetos existentes aplicando **Deep Copy** para asegurar que las listas de intereses sean independientes.
